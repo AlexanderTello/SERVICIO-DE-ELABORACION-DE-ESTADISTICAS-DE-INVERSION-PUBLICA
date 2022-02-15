@@ -1,0 +1,3 @@
+Para el empleo de estos códigos seguir las instrucciones señaladas en el documento 
+Entregable 3.pdf, el cual contiene un manual sobre la organización de la carpeta 
+y la replicación de los códigos. 
